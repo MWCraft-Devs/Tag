@@ -1,0 +1,9 @@
+name: Tag
+author: TheInfoBug
+version: 2
+description: A Tag plugin made by TheInfoBug
+main: me.TheInfoBug.Tag.Tag
+commands:
+  !tag:
+    description: Start/Stop a game of Tag
+    usage: !tag
