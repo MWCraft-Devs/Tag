@@ -10,7 +10,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class Tag extends JavaPlugin{
 
-	//#SkyWazIsHere
 	//Get PluginManager
 	PluginManager pm = Bukkit.getPluginManager();
 	

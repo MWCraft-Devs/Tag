@@ -10,7 +10,8 @@ import org.bukkit.entity.Player;
 public class Utils {
 
 	public static String Colorize(String message){
-		return ChatColor.translateAlternateColorCodes('&', message);
+		message = ChatColor.translateAlternateColorCodes('&', message);
+		return message;
 	}
 	
 	public static void Broadcastmessage(String message){
